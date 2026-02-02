@@ -6,7 +6,7 @@ React + TypeScript로 만든 간단한 메모장 앱입니다.
 
 ## 🚀 배포 URL
 
-https://memo-app-jun0202.vercel.app
+https://memo-jun0202.vercel.app
 
 ## 🛠️ 기술 스택
 
