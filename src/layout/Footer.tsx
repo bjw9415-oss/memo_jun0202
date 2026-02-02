@@ -18,7 +18,7 @@ function Footer() {
              현재 페이지의 정보를 참조하거나 조작하지 못하게 막는 보안 속성
           */}
           <a 
-            href="https://github.com/YOUR_ID" 
+            href="https://github.com/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="github-link"
