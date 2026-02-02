@@ -72,7 +72,7 @@ function App() {
     );
     const handleClearAll = () => {
     setMemos([]); // 1. 화면(State) 비우기
-    localStorage.removeItem(STORAGE_KEY); // 2. 저장소(Local Storage) 비우기
+    localStorage.removeItem(STORAGE_KEY); // 2. 저장소(Local Storage) 비우기!
     };
 
     const sortedMemos = [...filteredMemos].sort((a, b) => {
