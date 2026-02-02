@@ -1,12 +1,12 @@
 # 📝 메모장 앱
 
-![CI](https://github.com/YOUR_USERNAME/memo-app/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/bjw9415-oss/memo_jun0202/actions/workflows/ci.yml/badge.svg)
 
 React + TypeScript로 만든 간단한 메모장 앱입니다.
 
 ## 🚀 배포 URL
 
-https://memo-app-xxxxx.vercel.app
+https://memo-app-jun0202.vercel.app
 
 ## 🛠️ 기술 스택
 
@@ -35,5 +35,6 @@ src/
 ├── components/     # React 컴포넌트g
 ├── types/          # TypeScript 타입 정의
 ├── styles/         # CSS 스타일
+├── layout/         # 레이아웃 컴포넌트
 └── App.tsx         # 메인 컴포넌트
 ```
